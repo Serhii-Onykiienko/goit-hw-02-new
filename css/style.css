@@ -23,3 +23,73 @@ body {
 .address-link {
 }
 /* #endregion */
+
+/* #region Section Hero */
+.hero {
+}
+.hero__title {
+}
+.hero__butotn {
+}
+/* #endregion */
+
+/* #region Section Our features */
+.features {
+}
+.features__title {
+}
+.features__list {
+}
+.features__item {
+}
+.features__item-title {
+}
+.features__item-text {
+}
+/* #endregion */
+
+/* #region Section Team */
+.team {
+}
+.team__title {
+}
+.team__list {
+}
+.team__item {
+}
+.team__item-title {
+}
+.team__item-text {
+}
+
+/* #endregion */
+
+/* #region Section Portfolio */
+.portfolio {
+}
+.portfolio__title {
+}
+.portfolio__list {
+}
+.portfolio__item {
+}
+.portfolio__item-img {
+}
+.portfolio__item-title {
+}
+.portfolio__item-text {
+}
+
+/* #endregion */
+
+/* #region Footer */
+.footer {
+}
+.footer__logo {
+}
+.logo-accent {
+}
+.footer__text {
+}
+
+/* #endregion */

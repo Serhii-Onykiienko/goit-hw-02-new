@@ -22,22 +22,16 @@ a {
 /* #region Header */
 .header {
 }
-.header__logo {
+.logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #2e2f42;
 }
 .logo-accent {
-  font-family: "Raleway", sans-serif;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.16667;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
   color: #4d5ae5;
 }
 .nav {
@@ -62,8 +56,16 @@ a {
   letter-spacing: 0.02em;
   color: #404bbf;
 }
+
 .address {
 }
+
+.address-list {
+}
+
+.address-item {
+}
+
 .address-link {
   font-style: normal;
 
@@ -217,15 +219,12 @@ a {
   background-color: #2e2f42;
 }
 .footer__logo {
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.16667;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
   color: #f4f4fd;
 }
+
 .logo-accent {
 }
+
 .footer__text {
   font-weight: 400;
   font-size: 16px;
